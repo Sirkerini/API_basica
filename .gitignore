@@ -1,5 +1,5 @@
 # Entorno virtual
-venv/
+.venv/
 __pycache__/
 
 # Archivos temporales de Python
